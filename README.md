@@ -12,6 +12,14 @@ https://mehwee.github.io/Simon-game/
 - User input validation
 - Game reset on incorrect input
 - Interactive animations and sound effects
+
+ 🧠 Game Workflow
+
+1. Press any key to start the game.
+2. A random color flashes on the screen.
+3. The user repeats the sequence by clicking the buttons.
+4. If the sequence is correct → next level begins.
+5. If incorrect → game resets to Level 1.
   
  🧪 Testing
 
